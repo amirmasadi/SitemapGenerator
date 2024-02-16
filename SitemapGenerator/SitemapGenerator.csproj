@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Sitemap Generator Test #1</Title>
+    <Authors>asadi</Authors>
+    <PackageId>$(AssemblyName)001</PackageId>
+	<Version>1.1.0</Version>
+  </PropertyGroup>
+
+</Project>
